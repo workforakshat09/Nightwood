@@ -1,0 +1,6 @@
+Sound effects and ambience: all CC0 / public domain, from OpenGameArt.org (credit not required, given with thanks).
+Rain (loopable) - Ylmir · Crickets Ambient Noise - Wolfgang_ · Bird, cricket, frog and mosquito sounds - Aj_ · Wind - IgnasD
+Swamp Environment Audio - LokiF · 30 CC0 SFX loops, 80 CC0 creature SFX, 40 CC0 water/splash/slime SFX - rubberduck
+Male Grunt/Yelling sounds - HaelDB (used under CC0) · Fantozzi's Footsteps - Fantozzi · 42 Snow and Gravel Footsteps - Corsica_S
+Swishes Sound Pack, RPG Sound Pack - artisticdude
+Clips are trimmed, loudness-normalised and re-encoded to MP3 by tools/sfx.js.

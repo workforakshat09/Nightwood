@@ -1,0 +1,39 @@
+{
+  "game": "Nightwood",
+  "checked": "2026-11-13",
+  "art_direction": "Top-down 3/4 pixel art on a 3D diorama: chunky 1-px outlines, warm torchlight against cool night, medieval European dress; nearest filtering, no mipmaps, sRGB colour maps",
+  "groups": [
+    {
+      "files": "art/*.png (194 sprite sheets: hero, folk, foes, bosses, animals, farm stock, horses, items)",
+      "source": { "kind": "ai-generated", "tool": "image generation tool, during development (pre-generated, nothing is generated while the game runs)" },
+      "edits": "sliced, scaled to one pixel grid and given real alpha by tools/cut.js; then embedded in index.html as data URIs",
+      "licence": "owned by the project; declare as pre-generated AI content on any store survey (e.g. Steam Content Survey)",
+      "technical_checks_passed": true,
+      "checks": "all 194 RGBA with real transparency (no fully opaque sheets); nearest filtering and sRGB set in code"
+    },
+    {
+      "files": "textures painted in code (wood, stone, thatch, planks, window panes, halos) in index.html",
+      "source": { "kind": "procedural", "tool": "canvas drawing at load time" },
+      "licence": "project code",
+      "technical_checks_passed": true
+    },
+    {
+      "files": "music/*.mp3",
+      "source": { "kind": "licensed", "from": "OpenGameArt.org, see music/CREDITS.txt" },
+      "licence": "CC0 / public domain (credit given anyway)",
+      "technical_checks_passed": true
+    },
+    {
+      "files": "sfx/*.mp3 and the clips embedded in index.html (SFXDATA)",
+      "source": { "kind": "licensed", "from": "OpenGameArt.org, see sfx/CREDITS.txt; trimmed and normalised by tools/sfx.js" },
+      "licence": "CC0 / public domain (credit given anyway)",
+      "technical_checks_passed": true
+    },
+    {
+      "files": "fonts: Cinzel, Cinzel Decorative, Alegreya (loaded from Google Fonts)",
+      "source": { "kind": "licensed", "from": "Google Fonts" },
+      "licence": "SIL Open Font License 1.1",
+      "technical_checks_passed": true
+    }
+  ]
+}

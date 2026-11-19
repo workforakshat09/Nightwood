@@ -1,0 +1,11 @@
+# videos are too big for GitHub (100 MB limit)
+*.mp4
+trailer/
+
+# build output and Cloudflare's local cache (made by `node build.mjs` / wrangler)
+server/public/
+server/.wrangler/
+node_modules/
+
+# local editor settings
+.claude/

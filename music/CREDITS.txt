@@ -1,0 +1,5 @@
+Music (all CC0 / public domain, from OpenGameArt.org; credit is not required but given with thanks):
+- day.mp3   - "At Home - Orchestral" (cinematic-calm) by Wolfgang_   https://opengameart.org/content/at-home-orchestral
+- night.mp3 - "Laments of the War" by Cethiel                          https://opengameart.org/content/laments-of-the-war
+- boss.mp3  - "Epic Boss Battle [Seamlessly Looping]" by Juhani Junkala (SubspaceAudio)  https://opengameart.org/content/boss-battle-music
+Re-encoded to MP3 (VBR ~130 kbps) for size.
